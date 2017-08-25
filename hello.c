@@ -1,30 +1,37 @@
 #include "hello.h"
-void setup() {
-
-  pinMode(LED_BUILTIN, OUTPUT);
-}
-
-
-void loop() {
-  digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level)
-  delay(1000);                       // LEDS ARE COOL
-  digitalWrite(LED_BUILTIN, LOW);    // crazy magic stuff
-  delay(1000);                       
-}
 
 void crazyStuff();
 
+
+void main() {
+
+char existentialSadness;
+
+}
+
+
+while(1) {
+ 
+	int	sendSadMemes
+
+}
+return 0;
+
+
+
 void crazyStuff(){
 
-char mander;
+char 	mander;
 
-int eresTienePies;
+int 	eresTienePies;
 
-float comoElPayasoDeEso;
+float 	comoElPayasoDeEsoStephenKing;
 
-short LanaDelRey;
+short 	evilInterpol;
 
-long sinImaginacion;
+long 	troublemanElectricGuest;
 
-static int meEncantaEscribir;
+static int alChile;
+
+
 }
