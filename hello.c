@@ -23,4 +23,8 @@ int eresTienePies;
 float comoElPayasoDeEso;
 
 short LanaDelRey;
+
+long sinImaginacion;
+
+static int meEncantaEscribir;
 }
