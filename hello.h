@@ -4,3 +4,5 @@
 #define Sun	4
 
 #define beatles 5
+#define Kendra RC2
+#define Borges RA7

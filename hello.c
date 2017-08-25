@@ -18,4 +18,9 @@ void crazyStuff(){
 
 char mander;
 
+int eresTienePies;
+
+float comoElPayasoDeEso;
+
+short LanaDelRey;
 }
