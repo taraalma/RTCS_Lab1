@@ -6,3 +6,4 @@
 #define beatles 5
 #define Kendra RC2
 #define Borges RA7
+#define YOLO 777
